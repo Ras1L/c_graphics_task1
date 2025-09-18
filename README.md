@@ -13,5 +13,5 @@ ctest --test-dir build --verbose
 ```
 5. add your ID on top of README.md 
 (surname + initials, e.g. magomedov_mm)
-6. commit and push (dont commit build/)
+6. commit and push (dont commit build/ dir)
 7. open Actions and check the pipeline (build + test)
