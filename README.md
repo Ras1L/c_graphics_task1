@@ -1,4 +1,4 @@
-# gasharov_rm
+# gasharov_rm -rf /
 # c_graphics_task1
 
 1. create an empty public github repo 
